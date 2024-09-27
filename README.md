@@ -4,8 +4,10 @@
 
 ###
 
-<h1 align="center">Howdy! 👋 My Name's Minie</h1>
+<h1 align="leftr">Howdy! 👋 My Name's Minie</h1>
 
+###
+<h3 align="left">Frontend Developer</h3>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
