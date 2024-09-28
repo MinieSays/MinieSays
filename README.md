@@ -12,8 +12,8 @@
 
 ###
 
-<p align="left">Experienced and driven  frontend developer with a year of expertise in creating responsive applications that focus on user experience. Proficient in HTML, CSS, JavaScript, and modern frameworks like React, while using best practices. Skilled in working with cross-functional teams to deliver high-quality digital solutions. Loves to solve complex engineering problems and is detail oriented. Skilled in creating performative applications that are optimized for search engines and are responsive across all devices. Overall, I love staying up to date with emerging trends in the industry .<br>- 🍁 Located in Canada<br> <br>- ⚡ See my portfolio at <a href="https://www.miniesayadeth.com/">My Portfolio</a><br>- ✉️ You can contact me at minie@miniesayadeth.com<br>
- - 💼 I'm open to new opportunities.<br></p>
+<p align="left">Experienced and driven  frontend developer with a year of expertise in creating responsive applications that focus on user experience. Proficient in HTML, CSS, JavaScript, and modern frameworks like React, while using best practices. Skilled in working with cross-functional teams to deliver high-quality digital solutions. Loves to solve complex engineering problems and is detail oriented. Skilled in creating performative applications that are optimized for search engines and are responsive across all devices. Overall, I love staying up to date with emerging trends in the industry .<br>- 🍁 Located in Canada<br>- ⚡ See my portfolio at <a href="https://www.miniesayadeth.com/">My Portfolio</a><br>- ✉️ You can contact me at minie@miniesayadeth.com<br>
+ - 💼 I'm open to new opportunities.<br>- 🧠 Currently learning jQuery</p>
 
 ###
 
